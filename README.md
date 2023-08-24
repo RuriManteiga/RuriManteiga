@@ -1,16 +1,23 @@
-### Hi there 👋
+ ### _**Hello everyone. There's start my story in GitHub. Welcome :)**_
 
-<!--
-**RuriManteiga/RuriManteiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**RuriManteiga** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That's me:
+
+- 🔭 I’m currently working on learning how to schedule
+  
+- 🌱 I’m currently learning programming
+  
+- 👯 I’m looking to collaborate on codes
+  
+- 🤔 I’m looking for help with programming
+
+- 💬 Ask me about anything that's not programming
+  
+- 📫 How to reach me: on any repository of mine
+  
+- 😄 Pronouns: wenamech ina suma
+  
+- ⚡ Fun fact: DsII is a good souls game
+
